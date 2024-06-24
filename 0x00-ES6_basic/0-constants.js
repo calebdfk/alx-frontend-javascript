@@ -4,7 +4,7 @@ const task = 'I prefer const when I can.';
 }
 
 export function getLast() {
-  return 'is okay';
+  return ' is okay';
 }
 
 export function taskNext() {
